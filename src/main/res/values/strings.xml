@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Atividade 5</string>
+    <string name="ava">Avançar</string>
+    <string name="segunda_tela">Essa aqui e a segunda tela</string>
+    <string name="terceira_tela">Terceira Tela !</string>
+    <string name="quarta_tela">Quarta Tela</string>
+    <string name="proxima_tela">Proxima Tela</string>
+</resources>
