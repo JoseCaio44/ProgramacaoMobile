@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="um">#3A296B</color>
+    <color name="dois">#B6A2EE</color>
+    <color name="tres">#6446B8</color>
+    <color name="quatro">#8159EB</color>
+    <color name="gray">#737373</color>
+    <color name="cinco">#565366</color>
+    <color name="seis">#1A1533</color>
+    <color name="sete">#16151A</color>
+    <!--Harmonia quadratica -->
+    <color name="quad1">#3A2FFA</color>
+    <color name="quad2">#FA6D61</color>
+    <color name="quad3">#5148FA</color>
+    <color name="quad4">#FAD92F</color>
+    <color name="quad5">#3CFA8D</color>
+    <!--Harmonia analoga -->
+    <color name="anlg1">#E466FF</color>
+    <color name="anlg2">#7622E6</color>
+    <color name="anlg3">#4741FA</color>
+    <color name="anlg4">#3171E6</color>
+    <color name="anlg5">#5FD0FA</color>
+</resources>
