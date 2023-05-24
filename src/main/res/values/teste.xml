@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Estilo do botão -->
+    <style name="ButtonStyle" parent="Widget.AppCompat.Button">
+        <item name="android:textColor">@android:color/white</item>
+    <!--<item name="android:background">@drawable/button_background</item>-->
+</style>
+
+<!-- Estilo do texto -->
+    <style name="TextStyle">
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <!-- Cores personalizadas -->
+    <color name="primaryColor">#3F51B5</color>
+    <color name="accentColor">#FF4081</color>
+</resources>
