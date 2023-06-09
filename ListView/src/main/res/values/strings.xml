@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Prova</string>
+    <string name="usuario">Usuario</string>
+    <string name="prova">Prova de Mobile</string>
+    <string name="acessar">Acessar</string>
+    <string name="senha">Senha</string>
+    <string name="buscar">Buscar</string>
+    <string name="item">Item</string>
+    <string name="bem_vindo_fulano">Sejá muito bem vindo Fulano !</string>
+    <string name="prova_de_mobile">Prova de Mobile</string>
+    <string name="quantidade">Quantidade:</string>
+    <string name="nome_do_produto">Nome do Produto</string>
+    <string name="fazer_pedido">Fazer Pedido</string>
+    <string name="nome">Nome:</string>
+    <string name="avan_ar">Avançar</string>
+    <string name="_123">123</string>
+    <string name="aluno">aluno</string>
+    <string name="pre_o">Preço</string>
+    <string name="space" />
+    <string name="confirmar">Confirmar</string>
+    <string name="voltar">Voltar</string>
+    <string name="finalizar">Finalizar</string>
+</resources>
